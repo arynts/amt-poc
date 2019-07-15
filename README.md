@@ -1,0 +1,2 @@
+# amt-poc
+Base application
